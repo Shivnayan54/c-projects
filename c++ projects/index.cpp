@@ -54,6 +54,20 @@ if( board[0][2]==board[1][1] && board[1][1] == board[2][0])
 }
 return 0; 
 }
+void swapPlayerandMarker(){ 
+    if(currentPlayer == 'x')
+    {
+        currentMarker=='0'; 
+
+    }else{
+        currentMarker=='x'; 
+    }
+    if(currentPlayer==1){ 
+        currentPlayer=2; 
+    }else{ 
+        currentPlayer=1; 
+    }
+}
 
 void game()
 {
@@ -84,13 +98,23 @@ void game()
         drawBoard(); 
         playerwon=winner(); 
 
-        if(playerwon)
+     if(playerwon == 1)
+     { 
+        cout<<"player 1 wins"; 
+        break; 
+     }
+     if(playerwon==2)
+     {
+        cout<<"player 2 wins"; 
+        break; 
+     }
+     swapPlayerandMarker(); 
+     if(playerwon==0){ 
+        cout<<"its a tie"; 
      }
 }
 
-
-
-
+}
 
 int main()
 { 
