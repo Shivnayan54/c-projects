@@ -1,0 +1,185 @@
+[33mcommit 90bdc7e32bd56138744bd8be9957aa18de3db4e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Fri Jul 24 10:57:18 2026 +0530
+
+    Swap two numbers using pass by reference
+
+[33mcommit 1825f37641afc87110d2931705016bf94fbaae6d[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Fri Jul 24 09:55:59 2026 +0530
+
+    function to find maximum of two numbers
+
+[33mcommit 2cebbf1c6bf90bf191e55b00b6aa8b8a7a564d22[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Fri Jul 24 09:38:56 2026 +0530
+
+    Sum of two numbers using function
+
+[33mcommit 19b3f00c8db946fae5297b8ff43fa49d6060d95f[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Thu Jul 23 20:44:08 2026 +0530
+
+    First and last occurence at once using functions
+
+[33mcommit 5a7378f450f8e6e2e914e8ca6e817758a5621f6e[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Thu Jul 23 20:32:56 2026 +0530
+
+    printing table of 2
+
+[33mcommit 1f7409f91866fa14eaab0990a2386e939e5abe92[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Thu Jul 23 20:32:07 2026 +0530
+
+    adding all natural numbers
+
+[33mcommit d42a4c389482ec650d284e30444595d8971d024f[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Thu Jul 23 15:51:39 2026 +0530
+
+    Search Last Occurence
+
+[33mcommit a5c74c3075ad5bf9eb1cfd669713dff72c7ada7a[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Thu Jul 23 15:44:33 2026 +0530
+
+    Search first Occurence
+
+[33mcommit 7741945797029cf87f418d90c57dec4b24cef6e4[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Thu Jul 23 15:21:43 2026 +0530
+
+    Search Insert Position
+
+[33mcommit c57dcac73a04bb067356fa35a4eef7e8f3d7d224[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Thu Jul 23 09:22:53 2026 +0530
+
+    better then before
+
+[33mcommit e2088f9c5698543b0306606b5d3cbe7767da696a[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Thu Jul 23 08:59:43 2026 +0530
+
+    initial commit
+
+[33mcommit 957017bb957bbb373ce08c3f420def494716acd2[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Wed Jul 22 11:34:58 2026 +0530
+
+    initial commit
+
+[33mcommit f7bbbe9ceab3a5785e52b4714b4e4d150e5314bf[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Wed Jul 22 11:26:43 2026 +0530
+
+    Binary search
+
+[33mcommit 81701bac86e65a7294b7f8478dff45043fc746fd[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Tue Jul 21 20:51:34 2026 +0530
+
+    Reverse only a part of an array from index 2 to index 6
+
+[33mcommit 69b1384a1ce33f67efa8ea96495d19e88179db31[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Tue Jul 21 19:50:41 2026 +0530
+
+    Reverse only a part of an array in easy way
+
+[33mcommit c45c63a4ff22d7b58c470000cd5da411662a3185[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Tue Jul 21 19:31:05 2026 +0530
+
+    Move all zeros to the end
+
+[33mcommit 9b2bbac037e1533911c8cc9d20ee3e4ea3d962e5[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Tue Jul 21 10:39:59 2026 +0530
+
+    Check whether an array is a plaindrome
+
+[33mcommit 236ac42ef44564dbec7ce0dd7b76bc3f592012ee[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Mon Jul 20 17:02:59 2026 +0530
+
+    Check if an element exists
+
+[33mcommit 50bb6b8ac4c4248dd15d2e2e91fac24c69fa39d3[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Mon Jul 20 10:48:14 2026 +0530
+
+    Find the maximum element
+
+[33mcommit 7024e2883e895756e544c81d202f2cf446f2e5f2[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Mon Jul 20 10:40:53 2026 +0530
+
+    Find the minimum element
+
+[33mcommit 5f1b6eb40a9f7285511a96da93e6e67c5c531584[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Sun Jul 19 16:41:57 2026 +0530
+
+    Count occurrences
+
+[33mcommit 1be3c21a96f458c2f567499a1c25b99ddefbddf9[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Sun Jul 19 16:12:53 2026 +0530
+
+    Return the index of target
+
+[33mcommit f0d49659de7a99755428e55bd2a1fc8d085a5257[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Sun Jul 19 16:02:18 2026 +0530
+
+    Count even and odd numbers
+
+[33mcommit 123712e5d5530b4d6596da05a9bef0364450c751[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Sun Jul 19 15:44:41 2026 +0530
+
+    Reverse an array
+
+[33mcommit 1aa626cb4b2fc0cdade5e50039209fea681801e3[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Sun Jul 19 11:50:16 2026 +0530
+
+    Find the Second Largest in array
+
+[33mcommit 9954b4725e82944ef23ed089670e508c6c521f33[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Sun Jul 19 10:58:53 2026 +0530
+
+    Find largest element in array
+
+[33mcommit 8bf8f452a89cd3f2b52d30b5560a2d2e599e97fa[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Thu Jul 16 19:45:09 2026 +0530
+
+    initial DSa commit
+
+[33mcommit a988e5e6e7dab4b924aa01d8af0c6ba08f9b92a0[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Wed Jul 15 10:31:30 2026 +0530
+
+    initial DSa commit
+
+[33mcommit 6fc2e044a5a068e6d04a978959a89a881ac0573f[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Sun Jul 12 22:03:38 2026 +0530
+
+    initial DSA commit
+
+[33mcommit 9b83197b61df72af11ebb66d1e1747ca3f5e078e[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Sat Jul 11 20:10:47 2026 +0530
+
+    Initial DSA commit
+
+[33mcommit f9b64d42d34c09a14e4b04532824c9780df5f619[m
+Author: shivnayan <nayan54451@gmail.com>
+Date:   Sat Jul 11 19:15:55 2026 +0530
+
+    Initial DSA commit
